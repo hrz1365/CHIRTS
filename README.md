@@ -7,8 +7,8 @@ The script is written in R, with the requirement for these packages in the envir
 - tidyverse: for the usual data wrangling
 
 # Folder structure
-- inputs
+- inputs (not included here)
   - The boundary for India in WGS84
   - The initial global netcdf raster in WGS84
-- outputs
+- outputs (not included here)
   - The resulting point dataset 
