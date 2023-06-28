@@ -1,5 +1,5 @@
 # Objective
-This is a short script that extracts global CHIRTS daily to the boundary of India and then convert the resulting raster to points.
+This is a short script that extracts [global CHIRTS daily](https://www.chc.ucsb.edu/data/chirtsdaily) to the boundary of India and then convert the resulting raster to points.
 
 # Dependencies
 The script is written in R, with the requirement for these packages in the environment:
